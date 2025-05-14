@@ -102,10 +102,3 @@ Iterations for f2=f3: 17
 Counted area = 7.488
 ```
 
-## Лицензия
-
-Этот проект распространяется под MIT License.
-
----
-
-*Happy coding!*
