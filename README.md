@@ -90,6 +90,7 @@ make CFLAGS="-m32 -std=c11 -O2 -Wall -DNEWTON -DTRAPEZOID -I."
 ```
 
 ## Примеры вывода
+![image](https://github.com/user-attachments/assets/91a6afca-cbd0-40af-88e8-511e328c9311)
 
 ```
 Root f1=f2: 3.847755
